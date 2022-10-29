@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @baharjr
+- 👀 I’m interested in AI in dentistry
+- 🌱 I’m currently learning deep learning
+- 🔍 I’m looking to collaborate on AI in healthcare projects
+- 📫 How to reach me: bahaarj97@gmail.com
